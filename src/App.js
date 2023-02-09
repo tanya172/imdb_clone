@@ -12,7 +12,6 @@ function App() {
           <Route path="/*" element={<h1>Error Page</h1>}></Route>
         </Routes>
       </Router>
-      <h1>heelo</h1>
     </div>
   );
 }
